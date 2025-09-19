@@ -1,6 +1,7 @@
 # C# Mobile - Individuele opdracht
 
 Student: [Jouw Naam]
+
 Email: [Jouw Email]
 
 # [Naam project]
@@ -12,6 +13,9 @@ Email: [Jouw Email]
 
 ## Screenshots
 [Toon hier minstens 5 nuttige screenshots van je applicatie.]
+
+## Screencast
+[Voeg een link toe naar je screencast video van je applicatie. Zorg dat zoveel mogelijk features getoond worden!]
 
 ## Bronnen
 [Vermeld hier welke bronnen je gebruikt hebt en waarvoor je deze precies gebruikt hebt.]
